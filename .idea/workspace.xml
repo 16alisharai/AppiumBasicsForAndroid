@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a759654-243b-4b19-9792-81f0cb520725" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practiceAppium/AppPackageAndActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practiceAppium/KeyEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practiceAppium/Landscape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practiceAppium/SetGetClipboard.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2W9XGLrRB5ta5mR90bM6mX0yWTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AppPackageAndActivity">
+    <configuration name="AppPackageAndActivity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBasicsForAndroid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceAppium" />
+      <option name="MAIN_CLASS_NAME" value="practiceAppium.AppPackageAndActivity" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppiumFirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBasicsForAndroid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceAppium" />
+      <option name="MAIN_CLASS_NAME" value="practiceAppium.AppiumFirstTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyEvents" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBasicsForAndroid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceAppium" />
+      <option name="MAIN_CLASS_NAME" value="practiceAppium.KeyEvents" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Landscape" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBasicsForAndroid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceAppium" />
+      <option name="MAIN_CLASS_NAME" value="practiceAppium.Landscape" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetGetClipboard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBasicsForAndroid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceAppium" />
+      <option name="MAIN_CLASS_NAME" value="practiceAppium.SetGetClipboard" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AppPackageAndActivity" />
+        <item itemvalue="TestNG.KeyEvents" />
+        <item itemvalue="TestNG.SetGetClipboard" />
+        <item itemvalue="TestNG.Landscape" />
+        <item itemvalue="TestNG.AppiumFirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a759654-243b-4b19-9792-81f0cb520725" name="Changes" comment="" />
+      <created>1696145673012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696145673012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
